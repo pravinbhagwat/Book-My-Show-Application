@@ -1,9 +1,8 @@
 package com.example.Book_my_show_backend.Models;
 
-
-import javax.persistence.*;
 import lombok.Data;
 
+import javax.persistence.*;
 import java.util.Date;
 import java.util.List;
 
